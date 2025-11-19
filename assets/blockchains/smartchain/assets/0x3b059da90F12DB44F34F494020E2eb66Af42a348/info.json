@@ -3,9 +3,18 @@
   "symbol": "SSP",
   "type": "BEP20",
   "decimals": 18,
-  "description": "SOLSPOT (SSP) is a utility token designed to power the SolSpot digital ecosystem.",
-  "website": null,
-  "explorer": "https://bscscan.com/token/0x3b059da90F12DB44F34F494020E2eb66Af42a348",
   "status": "active",
-  "id": "0x3b059da90F12DB44F34F494020E2eb66Af42a348"
+  "id": "0x3b059da90F12DB44F34F494020E2eb66Af42a348",
+  "website": "https://placeholder.sol",
+  "description": "SOLSPOT is a BEP20 token deployed on BNB Smart Chain with focus on fast transactions, transparency, and community growth.",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/"
+    }
+  ]
 }
